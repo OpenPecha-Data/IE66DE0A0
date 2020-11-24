@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W29144
   title: མེ་གླིང་གསེར་རྫོང་།
-  volume: ''
+  volume:
+    db2eb4269c1b4e5ab1b2adc484277de4:
+      image_group_id: I1KG17071
+      title: Volume 1 of me gling gser rdzong /
+      volume_number: 1
+      total_pages: 238
   author: ''
+ebook_metadata:
+  title: མེ་གླིང་གསེར་རྫོང་།
+  author: ''
+  sku: P008002
+  cover: cover.jpg
+  layers:
+  - pagination
